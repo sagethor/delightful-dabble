@@ -1,0 +1,4 @@
+baseURL = 'https://sagethor.github.io/delightful-dabble'
+languageCode = 'en-us'
+title = 'Delightful Dabble'
+theme = 'hugo-PaperMod'
