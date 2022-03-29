@@ -1,4 +1,4 @@
-baseURL = 'https://blog.caek.co/delightful-dabble'
+baseURL = 'https://blog.caek.co'
 languageCode = 'en-us'
 title = 'Delightful Dabble'
 theme = 'hugo-PaperMod'
