@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Delightful Dabble</title>
-    <link>https://blog.caek.co/delightful-dabble/posts/</link>
+    <link>https://blog.caek.co/posts/</link>
     <description>Recent content in Posts on Delightful Dabble</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Mar 2022 19:55:26 -0400</lastBuildDate><atom:link href="https://blog.caek.co/delightful-dabble/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Mar 2022 19:55:26 -0400</lastBuildDate><atom:link href="https://blog.caek.co/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Panel Schedule</title>
-      <link>https://blog.caek.co/delightful-dabble/posts/panel-schedule/</link>
+      <link>https://blog.caek.co/posts/panel-schedule/</link>
       <pubDate>Mon, 28 Mar 2022 19:55:26 -0400</pubDate>
       
-      <guid>https://blog.caek.co/delightful-dabble/posts/panel-schedule/</guid>
+      <guid>https://blog.caek.co/posts/panel-schedule/</guid>
       <description>A panel schedule template that can either be modified directly or printed for markup.
 An alternative ink-friendly version is included in the file.
 Download: Panel Schedule Template.</description>
