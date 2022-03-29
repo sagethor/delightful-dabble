@@ -7,4 +7,4 @@ A panel schedule template that can either be modified directly or printed for ma
 
 An alternative ink-friendly version is included in the file.
 
-[download: Panel Schedule Template.xlsx](https://github.com/sagethor/delightful-dabble/raw/main/static/Panel%20Schedule%20Template.xlsx)
+[download: Panel Schedule Template.xlsx](https://github.com/sagethor/delightful-dabble/raw/master/static/Panel%20Schedule%20Template.xlsx)
