@@ -1,4 +1,4 @@
-baseURL = 'https://sagethor.github.io/delightful-dabble'
+baseURL = 'https://blog.caek.co/delightful-dabble'
 languageCode = 'en-us'
 title = 'Delightful Dabble'
 theme = 'hugo-PaperMod'
