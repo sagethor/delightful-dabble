@@ -3,3 +3,7 @@ languageCode = 'en-us'
 title = 'Delightful Dabble'
 theme = 'hugo-PaperMod'
 publishDir = 'docs'
+
+[params.homeInfoParams]
+Title = "Something simple, something quick."
+Content = "A collection of musings and petty technical tricks."
